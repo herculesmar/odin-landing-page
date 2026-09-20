@@ -2,6 +2,8 @@
 
 A webpage built from scratch using HTML5 and CSS Flexbox as part of [The Odin Project](https://www.theodinproject.com/) Foundations curriculum.
 
+Live preview : https://herculesmar.github.io/odin-landing-page/
+
 ## 📌 Project Overview
 
 The goal of this project was to take a raw design layout and convert it into a fully structured web page without relying on external frameworks. The entire page was created from scratch, focusing on layout positioning, alignment, and element styling.
